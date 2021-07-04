@@ -1,7 +1,11 @@
 body{
     font-family: 'Poppins', sans-serif;
+    color: rgba(112, 112, 252, 0.63);
 }
 h1 { font-size: 64px;}
 .dan{
     color: orange;
+}
+p{
+    font-size: 60%;
 }
