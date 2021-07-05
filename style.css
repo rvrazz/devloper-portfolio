@@ -5,12 +5,31 @@ body{
     color: rgba(77, 60, 189, 0.849);
 }
 .fig{
-    font-size: 44px;
+    font-size: 55px;
     color: rgba(137, 137, 235, 0.801);
+}
+.shs{
+    font-size: 32px;
+    color: dimgray;
 }
 .dan{
     color: orange;
 }
 p{
     font-size: 24px;
+}
+section{                                                
+    display: flex;
+}
+.vcb{
+    width: 50%;  
+    padding-right: 5%;
+}.vcb img{
+    width: 30%;
+
+}
+.link{
+text-decoration: none;
+background-color: rgb(253, 167, 8);
+padding: 10px 40px;
 }
