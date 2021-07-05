@@ -1,16 +1,22 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 .bgd{ font-size: 74px;
     color: rgba(77, 60, 189, 0.849);
+    padding-left: 10%;
 }
 .fig{
     font-size: 55px;
     color: rgba(137, 137, 235, 0.801);
+    padding-left: 10%;
 }
 .shs{
     font-size: 32px;
     color: dimgray;
+    padding-left: 10%;
 }
 .dan{
     color: orange;
@@ -23,13 +29,15 @@ section{
 }
 .vcb{
     width: 50%;  
-    padding-right: 5%;
+    padding-left: 10%;
 }.vcb img{
     width: 30%;
-
 }
 .link{
 text-decoration: none;
-background-color: rgb(253, 167, 8);
-padding: 10px 40px;
+background-image: linear-gradient(tomato, orange);
+padding: 10px 30px;
+border-radius: 5%;
+color: rgba(245, 240, 240, 0.808);
+font-weight: 700;
 }
