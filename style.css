@@ -24,13 +24,13 @@ body{
 p{
     font-size: 24px;
 }
-section{                                                
+.mitu{                                                
     display: flex;
-    margin: 100px;
+    margin: 80px;
 }
 .vcb{
     width: 50%;  
-    padding-left: 10%;
+    padding-left: 5%;
 }
 .link{
 text-decoration: none;
@@ -47,12 +47,39 @@ font-weight: 700;
     margin: 0%;
 }
 .jik{
-    font-size: 60px;
+    font-size: 70px;
     color: rgba(77, 60, 189, 0.849);
-    padding-left: 50%;
+    padding-left: 40%;
 }
 .sik{
     font-size: 32px;
     color: dimgray;
-    padding-left: 50%;
+    padding-left: 40%;
+}
+.tyg{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10%;
+    width: 60%;
+    box-shadow: 10px 10px 10px purple;
+    border-radius: 10px;
+}
+.ytr{
+    color: orange;
+}
+.mul{
+    font-size: 55px;
+    padding-left: 20%;
+    color: seagreen;
+}
+.ndrt{
+    display: flex;
+    margin: 80px;
+}
+.boi{
+    font-size: 30px;
+}
+.skill{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
 }
