@@ -83,3 +83,16 @@ font-weight: 700;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 }
+#gft{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#dsa{
+    border-left: 5px solid;
+    border-image: linear-gradient(pink,orange) ;
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
