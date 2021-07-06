@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+    margin-bottom: 100%;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
@@ -26,12 +26,11 @@ p{
 }
 section{                                                
     display: flex;
+    margin: 100px;
 }
 .vcb{
     width: 50%;  
     padding-left: 10%;
-}.vcb img{
-    width: 30%;
 }
 .link{
 text-decoration: none;
@@ -40,4 +39,20 @@ padding: 10px 30px;
 border-radius: 5%;
 color: rgba(245, 240, 240, 0.808);
 font-weight: 700;
+}
+.boy{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0%;
+}
+.jik{
+    font-size: 60px;
+    color: rgba(77, 60, 189, 0.849);
+    padding-left: 50%;
+}
+.sik{
+    font-size: 32px;
+    color: dimgray;
+    padding-left: 50%;
 }
